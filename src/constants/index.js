@@ -1,14 +1,13 @@
 export const myProjects = [
   {
     id: 1,
-    title: "E-commerce Platform",
+    title: "Cloud-Desk",
     description:
-      "Facilitates purchases from international websites like Amazon and eBay, allowing customers to shop from these sites and have products delivered domestically.",
+      "A comprehensive real-time educational workspace integrating a synchronized code editor, interactive whiteboard, live video meetings, and real-time chat.",
     subDescription: [
-      "Built a scalable application with ASP.NET Core MVC, integrating global platforms like Amazon for domestic delivery.",
-      "Implemented secure authentication and database management using ASP.NET Core Identity and Entity Framework Core.",
-      "Designed a responsive frontend with Tailwind CSS, enhancing user experience.",
-      "Added payment systems, localization, and product filtering for functionality improvements.",
+      "Developed an broad learning platform featuring structured video lectures and algorithmic problem-solving.",
+      "Implemented advanced real-time collaboration logic utilizing CRDTs with Yjs.",
+      "Integrated Redis for fast data synchronization and MongoDB for data persistence.",
     ],
     href: "",
     logo: "",
@@ -16,36 +15,36 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
+        name: "React",
+        path: "/assets/logos/react.svg",
       },
       {
         id: 2,
-        name: ".Net",
-        path: "/assets/logos/dotnet.svg",
+        name: "TypeScript",
+        path: "/assets/logos/typescript.svg",
       },
       {
         id: 3,
-        name: "Ef Core",
-        path: "/assets/logos/efcore.png",
+        name: "Node.js",
+        path: "/assets/logos/nodejs.svg",
       },
       {
         id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        name: "MongoDB",
+        path: "/assets/logos/mongodb.svg",
       },
     ],
   },
   {
     id: 2,
-    title: "Authentication & Authorization System",
+    title: "QueueEase",
     description:
-      "A secure authentication and authorization system using Auth0 for seamless user management.",
+      "A cross-platform mobile application using React Native and Expo Go to deliver a seamless user experience.",
     subDescription: [
-      "Integrated Auth0 for authentication, supporting OAuth, JWT, and multi-factor authentication.",
-      "Implemented role-based access control (RBAC) for fine-grained user permissions.",
-      "Developed a React-based frontend with Tailwind CSS for a sleek user experience.",
-      "Connected to a secure SQLite database for user data storage.",
+      "Architected a tough backend using Node.js and Express.",
+      "Leveraged PostgreSQL to enforce relational data integrity.",
+      "Integrated Prisma as the ORM to manage complex database queries.",
+      "Utilized Neon Tech for scalable cloud database hosting.",
     ],
     href: "",
     logo: "",
@@ -53,36 +52,36 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: "Auth0",
-        path: "/assets/logos/auth0.svg",
-      },
-      {
-        id: 2,
-        name: "React",
+        name: "React Native",
         path: "/assets/logos/react.svg",
       },
       {
+        id: 2,
+        name: "Node.js",
+        path: "/assets/logos/nodejs.svg",
+      },
+      {
         id: 3,
-        name: "SQLite",
-        path: "/assets/logos/sqlite.svg",
+        name: "PostgreSQL",
+        path: "/assets/logos/postgresql.svg",
       },
       {
         id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        name: "Prisma",
+        path: "/assets/logos/prisma.svg",
       },
     ],
   },
   {
     id: 3,
-    title: "Blazor Web App",
+    title: "Full-Stack Social Media Application",
     description:
-      "A modern, interactive web application built with Blazor WebAssembly and .NET Core.",
+      "A MERN-stack platform featuring real-time Socket.io messaging, Cloudinary media uploads, and custom RESTful APIs.",
     subDescription: [
-      "Developed a fully interactive Single Page Application (SPA) using Blazor WebAssembly.",
-      "Implemented API interactions using .NET Core for a robust backend.",
-      "Designed responsive UI components with Tailwind CSS for an enhanced UX.",
-      "Integrated SQLite for efficient client-side database storage.",
+      "Developed custom RESTful APIs for social media interactions.",
+      "Built a mobile-first Tailwind UI with auto-playing video feeds.",
+      "Implemented 24-hour expiring stories using MongoDB TTL.",
+      "Integrated Cloudinary for media uploads.",
     ],
     href: "",
     logo: "",
@@ -90,23 +89,23 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: "Blazor",
-        path: "/assets/logos/blazor.svg",
+        name: "React",
+        path: "/assets/logos/react.svg",
       },
       {
         id: 2,
-        name: ".NET Core",
-        path: "/assets/logos/dotnetcore.svg",
+        name: "TailwindCSS",
+        path: "/assets/logos/tailwindcss.svg",
       },
       {
         id: 3,
-        name: "SQLite",
-        path: "/assets/logos/sqlite.svg",
+        name: "MongoDB",
+        path: "/assets/logos/mongodb.svg",
       },
       {
         id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        name: "Express",
+        path: "/assets/logos/express.svg",
       },
     ],
   },
@@ -231,7 +230,7 @@ export const mySocials = [
   },
   {
     name: "Linkedin",
-    href: "https://www.linkedin.com/in/ali-sanati/",
+    href: "https://www.linkedin.com/in/ankit-kumar-9036a0346",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
@@ -243,36 +242,25 @@ export const mySocials = [
 
 export const experiences = [
   {
-    title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
+    title: "Software Development Engineer Intern",
+    job: "IQApex Labs",
+    date: "Jan 2024 - Present",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      "Built and maintained full-stack applications using React, Node.js, Express, and PostgreSQL.",
+      "Deployed low-latency RESTful APIs with strict data validation and error handling.",
+      "Secured application routes using robust authentication and Role-Based Access Control (RBAC).",
+      "Maintained high software quality standards by applying clean architecture principles.",
     ],
   },
   {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
+    title: "Tech Member",
+    job: "Google Developer Group (GDG)",
+    date: "Dec 2024 - Present",
     contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
-      "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
-      "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
-    ],
-  },
-  {
-    title: "Freelance Developer",
-    job: "Self-Employed",
-    date: "2025-Present",
-    contents: [
-      "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
-      "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies.",
+      "Led open-source initiatives and coordinated project flows for high-stakes events.",
+      "Conducted technical workshops on modern application development, mentoring over 100 students.",
+      "Improved frontend performance and UX by optimizing component rendering.",
+      "Managed cross-functional teams to organize developer circles and study jams.",
     ],
   },
 ];
