@@ -36,7 +36,7 @@ const About = () => {
             </p>
             <Card
               style={{ rotate: "75deg", top: "30%", left: "20%" }}
-              text="GRASP"
+              text="SCALABLE"
               containerRef={grid2Container}
             />
             <Card
