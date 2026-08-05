@@ -66,7 +66,7 @@
 ## 📸 Preview
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9b0ed20e-074e-4f2a-81d8-20c9da751e9e" width="85%" alt="Portfolio Screenshot" style="border-radius: 15px; box-shadow: 0 8px 30px rgba(0,0,0,0.2);" />
+  <img src="https://github.com/user-attachments/assets/02291f53-3365-4f3e-866b-687d7f5e4b19" width="85%" alt="Portfolio Screenshot" style="border-radius: 15px; box-shadow: 0 8px 30px rgba(0,0,0,0.2);" />
 </div>
 
 ---
