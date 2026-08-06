@@ -39,7 +39,7 @@ export function Frameworks() {
     { name: "postman", src: deviconUrl("postman") },
     { name: "prisma", src: "https://www.svgrepo.com/show/354210/prisma.svg" }, 
     { name: "reactnative", src: "https://icon.icepanel.io/Technology/svg/React.svg" },
-    { name: "expogo", src: "assets/logos/expo-go.svg" },
+    { name: "expogo", src: "/assets/expo-go.svg" },
     { name: "archlinux", src: deviconUrl("archlinux") },
     { name: "render", src: "https://cdn.brandfetch.io/id8LeMTX5r/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" },
     { name: "vercel", src: "https://upload.vectorlogo.zone/logos/vercel/images/c47cbee7-4d4f-439b-95ea-cc8da7809a0a.svg" },
