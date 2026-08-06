@@ -75,7 +75,7 @@ export const myProjects = [
   
   {
     id: 4,
-    title: "AgriSathi",
+    title: "AgriSathi Mobile App",
     description:
       "A smart agriculture assistance platform designed to revolutionize farming by integrating real-time crop disease detection and community-driven support.",
     subDescription: [
@@ -146,7 +146,7 @@ export const myProjects = [
   },
   {
     id: 2,
-    title: "QueueEase",
+    title: "QueueEase Mobile App",
     description:
       "A cross-platform mobile application using React Native and Expo Go to deliver a seamless user experience.",
     subDescription: [
@@ -242,7 +242,7 @@ export const experiences = [
   {
     title: "Software Development Engineer Intern",
     job: "IQApex Labs",
-    date: "Jan 2024 - Present",
+    date: "9th Jan 2026 - 9th May 2026",
     contents: [
       "Built and maintained full-stack applications using React, Node.js, Express, and PostgreSQL.",
       "Deployed low-latency RESTful APIs with strict data validation and error handling.",
@@ -253,12 +253,22 @@ export const experiences = [
   {
     title: "Tech Member",
     job: "Google Developer Group (GDG)",
-    date: "Dec 2024 - Present",
+    date: "Dec 2024 - Dec 2025",
     contents: [
       "Led open-source initiatives and coordinated project flows for high-stakes events.",
       "Conducted technical workshops on modern application development, mentoring over 100 students.",
       "Improved frontend performance and UX by optimizing component rendering.",
       "Managed cross-functional teams to organize developer circles and study jams.",
+    ],
+  },
+    {
+    title: "Tech Member",
+    job: "The Institution's Innovation Council (IIC)",
+    date: "Jan 2026 - Present",
+    contents: [
+      "Maintained official website infrastructure for high availability.",
+      "Developed specialized event websites for major hackathons and competitions.",
+      "Managed technical logistics for large-scale innovation events."
     ],
   },
 ];
