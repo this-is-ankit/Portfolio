@@ -9,7 +9,7 @@ export const myProjects = [
       "Implemented advanced real-time collaboration logic utilizing CRDTs with Yjs.",
       "Integrated Redis for fast data synchronization and MongoDB for data persistence.",
     ],
-    href: "",
+    href: "https://cloud-desk-ytb7.onrender.com/",
     logo: "",
     image: "/assets/projects/accessories.jpg",
     tags: [
