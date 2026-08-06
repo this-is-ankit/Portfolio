@@ -89,7 +89,7 @@ export const myProjects = [
       {
         id: 1,
         name: "React Native",
-        path: "/assets/logos/reactnative.svg",
+        path: "/assets/logos/react.svg",
       },
       {
         id: 2,
@@ -204,7 +204,7 @@ export const myProjects = [
       {
         id: 2,
         name: "Express.js",
-        path: "/assets/logos/expressjs.svg",
+        path: "/assets/logos/express.svg",
       },
       {
         id: 3,
