@@ -9,7 +9,7 @@ export const myProjects = [
       "Implemented advanced real-time collaboration logic utilizing CRDTs with Yjs.",
       "Integrated Redis for fast data synchronization and MongoDB for data persistence.",
     ],
-    href: "",
+    href: "https://cloud-desk-ytb7.onrender.com/",
     logo: "",
     image: "/assets/projects/accessories.jpg",
     tags: [
@@ -36,45 +36,8 @@ export const myProjects = [
     ],
   },
   {
-    id: 2,
-    title: "QueueEase",
-    description:
-      "A cross-platform mobile application using React Native and Expo Go to deliver a seamless user experience.",
-    subDescription: [
-      "Architected a tough backend using Node.js and Express.",
-      "Leveraged PostgreSQL to enforce relational data integrity.",
-      "Integrated Prisma as the ORM to manage complex database queries.",
-      "Utilized Neon Tech for scalable cloud database hosting.",
-    ],
-    href: "",
-    logo: "",
-    image: "/assets/projects/auth-system.jpg",
-    tags: [
-      {
-        id: 1,
-        name: "React Native",
-        path: "/assets/logos/react.svg",
-      },
-      {
-        id: 2,
-        name: "Node.js",
-        path: "/assets/logos/nodejs.svg",
-      },
-      {
-        id: 3,
-        name: "PostgreSQL",
-        path: "/assets/logos/postgresql.svg",
-      },
-      {
-        id: 4,
-        name: "Prisma",
-        path: "/assets/logos/prisma.svg",
-      },
-    ],
-  },
-  {
     id: 3,
-    title: "Full-Stack Social Media Application",
+    title: "Flik : Full Stack Social Media",
     description:
       "A MERN-stack platform featuring real-time Socket.io messaging, Cloudinary media uploads, and custom RESTful APIs.",
     subDescription: [
@@ -83,7 +46,7 @@ export const myProjects = [
       "Implemented 24-hour expiring stories using MongoDB TTL.",
       "Integrated Cloudinary for media uploads.",
     ],
-    href: "",
+    href: "https://flik-oxmz.onrender.com/",
     logo: "",
     image: "/assets/projects/blazor-app.jpg",
     tags: [
@@ -109,114 +72,149 @@ export const myProjects = [
       },
     ],
   },
+  
   {
     id: 4,
-    title: "C++ Game Engine",
+    title: "AgriSathi",
     description:
-      "A lightweight C++ game engine designed for 2D and 3D game development.",
+      "A smart agriculture assistance platform designed to revolutionize farming by integrating real-time crop disease detection and community-driven support.",
     subDescription: [
-      "Built a powerful rendering engine using OpenGL and C++.",
-      "Developed a physics engine with collision detection and particle effects.",
-      "Implemented a scripting system for easy game customization.",
-      "Optimized performance with multi-threading and efficient memory management.",
+      "Developed an AI-powered system featuring machine learning models for instant disease identification, confidence score analysis, and targeted treatment recommendations.",
+      "Implemented localized weather-based alerts and an AI chatbot with multi-language voice assistance to provide personalized farming advisories.",
     ],
-    href: "",
+    href: "https://github.com/this-is-ankit/AgriSathi",
     logo: "",
-    image: "/assets/projects/game-engine.jpg",
+    image: "/assets/projects/AgriSathi.jpeg",
     tags: [
       {
         id: 1,
-        name: "C++",
-        path: "/assets/logos/cplusplus.svg",
+        name: "React Native",
+        path: "/assets/logos/reactnative.svg",
       },
       {
         id: 2,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
+        name: "FastAPI",
+        path: "/assets/logos/fastapi.svg",
       },
       {
         id: 3,
-        name: "Git",
-        path: "/assets/logos/git.svg",
+        name: "PyTorch",
+        path: "/assets/logos/pytorch.svg",
       },
       {
         id: 4,
-        name: "Microsoft",
-        path: "/assets/logos/microsoft.svg",
+        name: "Firebase",
+        path: "/assets/logos/firebase.svg",
+      },
+    ],
+  },
+   {
+    id: 5,
+    title: "Samudra Ledger",
+    description:
+      "A comprehensive blockchain-powered platform designed for Blue Carbon Monitoring, Reporting, Verification (MRV), and Carbon Credit Registry in India.",
+    subDescription: [
+      "Developed an integrated ecosystem featuring automated MRV data submission, AI-assisted verification workflows, and a transparent carbon credit marketplace.",
+      "Implemented immutable tracking and tokenization of carbon credits utilizing the Avalanche network.",
+      "Integrated Supabase for robust role-based authentication and IPFS for decentralized documentation management.",
+    ],
+    href: "https://samudra-ledger.vercel.app/",
+    logo: "",
+    image: "/assets/projects/samudra.jpg",
+    tags: [
+      {
+        id: 1,
+        name: "React",
+        path: "/assets/logos/react.svg",
+      },
+      {
+        id: 2,
+        name: "Supabase",
+        path: "/assets/logos/supabase.svg",
+      },
+      {
+        id: 3,
+        name: "Avalanche",
+        path: "/assets/logos/avalanche.svg",
+      },
+      {
+        id: 4,
+        name: "PostgreSQL",
+        path: "/assets/logos/postgresql.svg",
       },
     ],
   },
   {
-    id: 5,
-    title: "WordPress Custom Theme",
+    id: 2,
+    title: "QueueEase",
     description:
-      "A fully customizable WordPress theme optimized for performance and SEO.",
+      "A cross-platform mobile application using React Native and Expo Go to deliver a seamless user experience.",
     subDescription: [
-      "Developed a responsive WordPress theme using HTML5, CSS3, and JavaScript.",
-      "Integrated Tailwind CSS for modern styling and UI enhancements.",
-      "Optimized SEO and page speed using Vite.js for fast builds.",
-      "Implemented custom widgets and plugin compatibility for extended functionality.",
+      "Architected a tough backend using Node.js and Express.",
+      "Leveraged PostgreSQL to enforce relational data integrity.",
+      "Integrated Prisma as the ORM to manage complex database queries.",
+      "Utilized Neon Tech for scalable cloud database hosting.",
     ],
-    href: "",
+    href: "https://github.com/this-is-ankit/QueueEase",
     logo: "",
-    image: "/assets/projects/wordpress-theme.jpg",
+    image: "/assets/projects/auth-system.jpg",
     tags: [
       {
         id: 1,
-        name: "WordPress",
-        path: "/assets/logos/wordpress.svg",
+        name: "React Native",
+        path: "/assets/logos/react.svg",
       },
       {
         id: 2,
-        name: "HTML5",
-        path: "/assets/logos/html5.svg",
+        name: "Node.js",
+        path: "/assets/logos/nodejs.svg",
       },
       {
         id: 3,
-        name: "CSS3",
-        path: "/assets/logos/css3.svg",
+        name: "PostgreSQL",
+        path: "/assets/logos/postgresql.svg",
       },
       {
         id: 4,
-        name: "Vite.js",
-        path: "/assets/logos/vitejs.svg",
+        name: "Prisma",
+        path: "/assets/logos/prisma.svg",
       },
     ],
   },
+  
+ 
   {
     id: 6,
-    title: "Online Learning Platform",
+    title: "Blogverse",
     description:
-      "A web application that allows users to enroll in courses, watch video lectures, and take quizzes.",
+      "A full-stack blogging platform designed to enable users to seamlessly create, manage, and read blog posts through an intuitive web interface.",
     subDescription: [
-      "Built using Blazor WebAssembly for a seamless SPA experience.",
-      "Implemented video streaming with Azure Media Services.",
-      "Added a quiz system with dynamic question generation and real-time grading.",
-      "Integrated Stripe API for secure payment processing.",
+      "Structured with a modular architecture, ensuring a clean separation of concerns across models, routes, services, and server-side views.",
+      "Implemented efficient server-side dynamic content rendering and configured streamlined cloud deployment via Vercel.",
     ],
-    href: "",
+    href: "https://my-blogverse.vercel.app/",
     logo: "",
-    image: "/assets/projects/elearning.jpg",
+    image: "/assets/projects/blogverse.jpg",
     tags: [
       {
         id: 1,
-        name: "Blazor",
-        path: "/assets/logos/blazor.svg",
+        name: "Node.js",
+        path: "/assets/logos/nodejs.svg",
       },
       {
         id: 2,
-        name: "Azure",
-        path: "/assets/logos/azure.svg",
+        name: "Express.js",
+        path: "/assets/logos/expressjs.svg",
       },
       {
         id: 3,
-        name: "Stripe",
-        path: "/assets/logos/stripe.svg",
+        name: "EJS",
+        path: "/assets/logos/ejs.svg",
       },
       {
         id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        name: "MongoDB",
+        path: "/assets/logos/mongodb.svg",
       },
     ],
   },
@@ -225,7 +223,7 @@ export const myProjects = [
 export const mySocials = [
   {
     name: "WhatsApp",
-    href: "",
+    href: "https://wa.me/919431296664",
     icon: "/assets/socials/whatsApp.svg",
   },
   {
@@ -235,7 +233,7 @@ export const mySocials = [
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
+    href: "https://www.instagram.com/ankit.jsx/",
     icon: "/assets/socials/instagram.svg",
   },
 ];
