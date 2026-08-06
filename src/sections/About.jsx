@@ -40,23 +40,23 @@ const About = () => {
               containerRef={grid2Container}
             />
             <Card
-              style={{ rotate: "-30deg", top: "60%", left: "45%" }}
-              text="SOLID"
+              style={{ rotate: "-30deg", top: "5%", left: "75%" }}
+              text="RESTful"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "90deg", bottom: "30%", left: "70%" }}
-              text="Design Patterns"
+              text="Modular"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "55%", left: "0%" }}
-              text="Design Principles"
+              text="Real-time"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "20deg", top: "10%", left: "38%" }}
-              text="SRP"
+              text="Clean Code"
               containerRef={grid2Container}
             />
             <Card
@@ -74,6 +74,17 @@ const About = () => {
               image="assets/logos/blazor-pink.png"
               containerRef={grid2Container}
             />
+            <Card
+              style={{ rotate: "-20deg", top: "30%", left: "20%" }}
+              image="assets/logos/postgresql.svg"
+              containerRef={grid2Container}
+            />
+            <Card
+              style={{ rotate: "5deg", bottom: "15%", left: "45%" }}
+              image="assets/logos/Redis.png"
+              containerRef={grid2Container}
+            />
+            
           </div>
         </div>
         {/* Grid 3 */}
