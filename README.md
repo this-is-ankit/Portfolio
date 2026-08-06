@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=3D%20Developer%20Portfolio&fontSize=58&fontAlignY=35&desc=Modern%20Interactive%20Web%20Experience&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=3D%20Portfolio&fontSize=58&fontAlignY=35&desc=Modern%20Interactive%20Web%20Experience&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Modern+3D+Developer+Portfolio;Built+with+React+%2B+Three.js;Buttery-Smooth+Framer+Motion+Animations;Fully+Responsive+Across+All+Devices" alt="Typing SVG" />
 
