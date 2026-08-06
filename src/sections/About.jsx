@@ -20,7 +20,8 @@ const About = () => {
           <div className="z-10">
             <p className="headtext">Hi, I'm Ankit Kumar</p>
             <p className="subtext">
-              IT student and Full Stack SDE with a proven track record of building production-ready applications.
+              Hi, I'm Ankit Kumar.
+              I am an IT student and Full Stack SDE with a proven track record of building production-ready applications. I am highly adaptable and able to quickly master and integrate new frameworks and technologies.
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-evets-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
@@ -84,7 +85,7 @@ const About = () => {
               image="assets/logos/Redis.png"
               containerRef={grid2Container}
             />
-            
+
           </div>
         </div>
         {/* Grid 3 */}
@@ -92,7 +93,12 @@ const About = () => {
           <div className="z-10 w-[50%]">
             <p className="headtext">Time Zone</p>
             <p className="subtext">
-              I'm based in Kolkata, India, and open to remote work worldwide.
+              Based in Kolkata, India, I am available for remote roles globally.
+              <br />I am also open to relocating for
+              <br />on-site positions anywhere
+              <br /> in India and specific
+              <br /> countries abroad.
+
             </p>
           </div>
           <figure className="absolute left-[30%] top-[10%]">
@@ -111,10 +117,15 @@ const About = () => {
         {/* Grid 5 */}
         <div className="grid-default-color grid-5">
           <div className="z-10 w-[50%]">
-            <p className="headText">Teck Stack</p>
+            <p className="headText">Tech Stack</p>
             <p className="subtext">
               I specialize in a variety of languages, frameworks, and tools that
               allow me to build robust and scalable applications.
+              <br />
+              <br />
+              I'm currently focusing on backend development, DevOps
+              and exploring emerging technologies to expand my skill set.
+
             </p>
           </div>
           <div className="absolute inset-y-0 md:inset-y-9 w-full h-full start-[50%] md:scale-125">
