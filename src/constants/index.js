@@ -36,43 +36,6 @@ export const myProjects = [
     ],
   },
   {
-    id: 2,
-    title: "QueueEase",
-    description:
-      "A cross-platform mobile application using React Native and Expo Go to deliver a seamless user experience.",
-    subDescription: [
-      "Architected a tough backend using Node.js and Express.",
-      "Leveraged PostgreSQL to enforce relational data integrity.",
-      "Integrated Prisma as the ORM to manage complex database queries.",
-      "Utilized Neon Tech for scalable cloud database hosting.",
-    ],
-    href: "",
-    logo: "",
-    image: "/assets/projects/auth-system.jpg",
-    tags: [
-      {
-        id: 1,
-        name: "React Native",
-        path: "/assets/logos/react.svg",
-      },
-      {
-        id: 2,
-        name: "Node.js",
-        path: "/assets/logos/nodejs.svg",
-      },
-      {
-        id: 3,
-        name: "PostgreSQL",
-        path: "/assets/logos/postgresql.svg",
-      },
-      {
-        id: 4,
-        name: "Prisma",
-        path: "/assets/logos/prisma.svg",
-      },
-    ],
-  },
-  {
     id: 3,
     title: "Flik : Full Stack Social Media",
     description:
@@ -83,7 +46,7 @@ export const myProjects = [
       "Implemented 24-hour expiring stories using MongoDB TTL.",
       "Integrated Cloudinary for media uploads.",
     ],
-    href: "",
+    href: "https://flik-oxmz.onrender.com/",
     logo: "",
     image: "/assets/projects/blazor-app.jpg",
     tags: [
@@ -109,6 +72,7 @@ export const myProjects = [
       },
     ],
   },
+  
   {
     id: 4,
     title: "AgriSathi",
@@ -120,7 +84,7 @@ export const myProjects = [
     ],
     href: "https://github.com/this-is-ankit/AgriSathi",
     logo: "",
-    image: "/assets/projects/placeholder.png",
+    image: "/assets/projects/AgriSathi.jpeg",
     tags: [
       {
         id: 1,
@@ -144,7 +108,7 @@ export const myProjects = [
       },
     ],
   },
-  {
+   {
     id: 5,
     title: "Samudra Ledger",
     description:
@@ -156,7 +120,7 @@ export const myProjects = [
     ],
     href: "https://samudra-ledger.vercel.app/",
     logo: "",
-    image: "/assets/projects/placeholder.png",
+    image: "/assets/projects/samudra.jpg",
     tags: [
       {
         id: 1,
@@ -181,6 +145,45 @@ export const myProjects = [
     ],
   },
   {
+    id: 2,
+    title: "QueueEase",
+    description:
+      "A cross-platform mobile application using React Native and Expo Go to deliver a seamless user experience.",
+    subDescription: [
+      "Architected a tough backend using Node.js and Express.",
+      "Leveraged PostgreSQL to enforce relational data integrity.",
+      "Integrated Prisma as the ORM to manage complex database queries.",
+      "Utilized Neon Tech for scalable cloud database hosting.",
+    ],
+    href: "https://github.com/this-is-ankit/QueueEase",
+    logo: "",
+    image: "/assets/projects/auth-system.jpg",
+    tags: [
+      {
+        id: 1,
+        name: "React Native",
+        path: "/assets/logos/react.svg",
+      },
+      {
+        id: 2,
+        name: "Node.js",
+        path: "/assets/logos/nodejs.svg",
+      },
+      {
+        id: 3,
+        name: "PostgreSQL",
+        path: "/assets/logos/postgresql.svg",
+      },
+      {
+        id: 4,
+        name: "Prisma",
+        path: "/assets/logos/prisma.svg",
+      },
+    ],
+  },
+  
+ 
+  {
     id: 6,
     title: "Blogverse",
     description:
@@ -191,7 +194,7 @@ export const myProjects = [
     ],
     href: "https://my-blogverse.vercel.app/",
     logo: "",
-    image: "/assets/projects/placeholder.png",
+    image: "/assets/projects/blogverse.jpg",
     tags: [
       {
         id: 1,
@@ -220,7 +223,7 @@ export const myProjects = [
 export const mySocials = [
   {
     name: "WhatsApp",
-    href: "",
+    href: "https://wa.me/919431296664",
     icon: "/assets/socials/whatsApp.svg",
   },
   {
@@ -230,7 +233,7 @@ export const mySocials = [
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
+    href: "https://www.instagram.com/ankit.jsx/",
     icon: "/assets/socials/instagram.svg",
   },
 ];
