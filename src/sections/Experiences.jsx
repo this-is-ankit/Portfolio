@@ -2,9 +2,9 @@ import { Timeline } from "../components/Timeline";
 import { experiences } from "../constants";
 const Experiences = () => {
   return (
-    <div className="w-full">
+    <section id="experience" className="w-full scroll-mt-20">
       <Timeline data={experiences} />
-    </div>
+    </section>
   );
 };
 
