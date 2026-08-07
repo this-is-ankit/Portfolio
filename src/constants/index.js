@@ -21,7 +21,7 @@ export const myProjects = [
       {
         id: 2,
         name: "TypeScript",
-        path: "/assets/logos/typescript.svg",
+        path: "/assets/logos/type.svg",
       },
       {
         id: 3,
