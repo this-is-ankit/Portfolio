@@ -236,6 +236,12 @@ export const mySocials = [
     href: "https://www.instagram.com/ankit.jsx/",
     icon: "/assets/socials/instagram.svg",
   },
+  {
+    name: "X",
+    href: "https://x.com/this_isankit",
+    icon: "/assets/socials/x.svg",
+  },
+  
 ];
 
 export const experiences = [
