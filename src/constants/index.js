@@ -5,7 +5,7 @@ export const myProjects = [
     description:
       "A comprehensive real-time educational workspace integrating a synchronized code editor, interactive whiteboard, live video meetings, and real-time chat.",
     subDescription: [
-      "Developed an broad learning platform featuring structured video lectures and algorithmic problem-solving.",
+      "Developed a broad learning platform featuring structured video lectures and algorithmic problem-solving.",
       "Implemented advanced real-time collaboration logic utilizing CRDTs with Yjs.",
       "Integrated Redis for fast data synchronization and MongoDB for data persistence.",
     ],
