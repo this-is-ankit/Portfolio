@@ -72,7 +72,7 @@ export const myProjects = [
       },
     ],
   },
-  
+
   {
     id: 4,
     title: "AgriSathi Mobile App",
@@ -108,7 +108,7 @@ export const myProjects = [
       },
     ],
   },
-   {
+  {
     id: 5,
     title: "Samudra Ledger",
     description:
@@ -181,8 +181,8 @@ export const myProjects = [
       },
     ],
   },
-  
- 
+
+
   {
     id: 6,
     title: "Blogverse",
@@ -241,7 +241,7 @@ export const mySocials = [
     href: "https://x.com/this_isankit",
     icon: "/assets/socials/x.svg",
   },
-  
+
 ];
 
 export const experiences = [
@@ -267,7 +267,7 @@ export const experiences = [
       "Managed cross-functional teams to organize developer circles and study jams.",
     ],
   },
-    {
+  {
     title: "Tech Member",
     job: "The Institution's Innovation Council (IIC)",
     date: "Jan 2026 - Present",
