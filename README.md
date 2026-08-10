@@ -31,7 +31,7 @@
 
 > A modern, animated 3D developer portfolio built with React, Three.js, Tailwind CSS, and motion effects — designed to help you stand out and showcase your skills creatively.
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-black?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-black?style=for-the-badge)](https://ankit-crafts.vercel.app/)
 [![GitHub Repository](https://img.shields.io/badge/📦_Repository-Portfolio-black?style=for-the-badge)](https://github.com/this-is-ankit/Portfolio)
 
 </div>
