@@ -109,6 +109,41 @@ export const myProjects = [
     ],
   },
   {
+    id: 6,
+    title: "Blogverse",
+    description:
+      "A full-stack blogging platform designed to enable users to seamlessly create, manage, and read blog posts through an intuitive web interface.",
+    subDescription: [
+      "Structured with a modular architecture, ensuring a clean separation of concerns across models, routes, services, and server-side views.",
+      "Implemented efficient server-side dynamic content rendering and configured streamlined cloud deployment via Vercel.",
+    ],
+    href: "https://my-blogverse.vercel.app/",
+    logo: "",
+    image: "/assets/projects/blogverse.jpg",
+    tags: [
+      {
+        id: 1,
+        name: "Node.js",
+        path: "/assets/logos/nodejs.svg",
+      },
+      {
+        id: 2,
+        name: "Express.js",
+        path: "/assets/logos/express.svg",
+      },
+      {
+        id: 3,
+        name: "EJS",
+        path: "/assets/logos/ejs.svg",
+      },
+      {
+        id: 4,
+        name: "MongoDB",
+        path: "/assets/logos/mongodb.svg",
+      },
+    ],
+  },
+  {
     id: 5,
     title: "Samudra Ledger",
     description:
@@ -178,43 +213,6 @@ export const myProjects = [
         id: 4,
         name: "Prisma",
         path: "/assets/logos/prisma.svg",
-      },
-    ],
-  },
-
-
-  {
-    id: 6,
-    title: "Blogverse",
-    description:
-      "A full-stack blogging platform designed to enable users to seamlessly create, manage, and read blog posts through an intuitive web interface.",
-    subDescription: [
-      "Structured with a modular architecture, ensuring a clean separation of concerns across models, routes, services, and server-side views.",
-      "Implemented efficient server-side dynamic content rendering and configured streamlined cloud deployment via Vercel.",
-    ],
-    href: "https://my-blogverse.vercel.app/",
-    logo: "",
-    image: "/assets/projects/blogverse.jpg",
-    tags: [
-      {
-        id: 1,
-        name: "Node.js",
-        path: "/assets/logos/nodejs.svg",
-      },
-      {
-        id: 2,
-        name: "Express.js",
-        path: "/assets/logos/express.svg",
-      },
-      {
-        id: 3,
-        name: "EJS",
-        path: "/assets/logos/ejs.svg",
-      },
-      {
-        id: 4,
-        name: "MongoDB",
-        path: "/assets/logos/mongodb.svg",
       },
     ],
   },
